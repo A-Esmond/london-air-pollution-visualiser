@@ -60,7 +60,7 @@ The rest of the app was built by my teammates (E. N., T. A., P. P.).
 ![Trend over time](docs/trend-over-time.png)
 
 - **Source:** DEFRA Pollution Climate Mapping annual means (https://uk-air.defra.gov.uk/data/pcm-data).
-- **Trimmed to London.** The national files are about 160 MB. The app only ever uses the London map area, so `scripts/trim_to_london.py` keeps the header and the roughly 1,000 grid squares inside the map bounds (0.6 MB in total). The app's behaviour is unchanged, but it clones and starts far faster. Re-run the script on the raw files to regenerate.
+- **Trimmed to London.** The national files are about 160 MB. The app only ever uses the London map area, so `scripts/trim_to_london.py` keeps the header and the roughly 1,000 grid squares inside the map bounds (0.6 MB in total). The app's behaviour is unchanged, but it clones and starts far faster.
 
 ## Tests
 
