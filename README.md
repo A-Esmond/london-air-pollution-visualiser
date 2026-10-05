@@ -2,7 +2,7 @@
 
 A JavaFX desktop app for exploring UK government (DEFRA) air pollution data for London: NO2, PM10 and PM2.5 annual means on a 1 km grid, 2018–2023. It shows pollution on an interactive map and computes statistics for any area you draw.
 
-Team coursework (4 people) for the Programming Practice and Applications module at King's College London (2025–26).
+Team coursework (4 people).
 
 ![Title screen](docs/title-screen.png)
 
