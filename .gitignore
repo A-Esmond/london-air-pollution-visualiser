@@ -1,0 +1,21 @@
+# Build output
+target/
+out/
+*.class
+*.jar
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# BlueJ files
+*.ctxt
+package.bluej
+
+# OS junk
+.DS_Store
+Thumbs.db
